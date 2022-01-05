@@ -8,12 +8,16 @@ This is a tool for calculating FLOPs of torch models.
 
 ## 文件组成
 
-------- FLOPs-Tools
+------- FLOPs-Tools 
 
- |----- calculate_flops.py  **用于计算FLOPs的例子**
+ |----- calculate_flops.py  **用于计算FLOPs的例子** 
+
  |----- compute_flops.py  用于计算FLOPs和运行速度
+
  |----- jit_handles.py     用于计算各个操作的flops
+
  |----- __ init __.py
+
  |----- README.md
 
 
